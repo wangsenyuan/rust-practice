@@ -1,2 +1,2 @@
 [workspace]
-members = ["hello_world", "guess_game", "ownership"]
+members = ["hello_world", "guess_game", "ownership", "structs", "enum_patterns"]
